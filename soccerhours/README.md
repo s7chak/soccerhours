@@ -4,7 +4,7 @@ This initial phase in App building will only involve data modeling, database def
 
 A list of the functions :
 
-1. Add a new user (admin only)
+Add a new user (admin only)
 Add a new venue (admin only) 
 Start an event (user or admin on behalf of a user)
 Display timeslot availability at a venue
