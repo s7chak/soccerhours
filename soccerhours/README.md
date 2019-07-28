@@ -4,11 +4,11 @@ This initial phase in App building will only involve data modeling, database def
 
 A list of the functions :
 
-Add a new user (admin only)
-Add a new venue (admin only) 
-Start an event (user or admin on behalf of a user)
-Display timeslot availability at a venue
-Display all venues where a particular timeslot is available
-List events at a venue given date/time
-User joins an event
-Remove an event (admin only)
+1. Add a new user (admin only)
+2. Add a new venue (admin only)
+3. Start an event (user or admin on behalf of a user)
+4. Display timeslot availability at a venue
+5. Display all venues where a particular timeslot is available
+6. List events at a venue given date/time
+7. User joins an event
+8. Remove an event (admin only)
